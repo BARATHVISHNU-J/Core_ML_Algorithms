@@ -30,16 +30,6 @@ Each algorithm is explained with:
 ## 🚀 How to Use
 You can run the accompanying [Colab notebook](https://colab.research.google.com/drive/17ycZLKBPLW-PxdYKCjdsbv8BkQB7Ra54?usp=sharing) to interactively explore the algorithms and code.
 
-Once uploaded to GitHub, you can update the dataset URLs in your notebook like so:
-
-```python
-import pandas as pd
-
-url = "https://raw.githubusercontent.com/BARATHVISHNU-J/Core_ML_Algorithms/main/sample_regression.csv"
-df = pd.read_csv(url)
-```
-
-Repeat for other datasets as needed.
 
 ## 🤝 Authors
 - Barath Vishnu J
